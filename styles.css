@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    text-align: center;    
+    line-height: 1.5;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+#main{
+    background-color: rgb(238,238,238);
+    padding: 15px 0px;
+    margin: 30px 8px;
+    border-radius: 5px;
+}
+
+
+
+figure{
+    background-color: white;
+    padding: 10px;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    border-radius: 5px;
+    
+}
+
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    
+}
+
+figcaption{
+    margin: 20px 0px 5px 0px;
+}
+
+
+section{
+    margin-top: 3rem;
+}
+
+ul{
+    max-width: 550px;
+    margin: 3rem auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li{
+    margin: 16px;
+}
+
+a{
+    text-decoration: none;
+}
